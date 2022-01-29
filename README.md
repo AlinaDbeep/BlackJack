@@ -1,2 +1,2 @@
 # BlackJack
-![image](https://github.com/AlinaDbeep/BlackJack/blob/main/ScreenshotBlackJack.png?raw=true)
+!<img src="https://github.com/AlinaDbeep/BlackJack/blob/main/ScreenshotBlackJack.png?raw=true" width="400">
